@@ -20,9 +20,9 @@ The date contains the attributes such as open, high, low, close, adjusted close 
 
 **Screenshots of Application**
 
-<img src='https://gitlab.com/rushmeuzumaki/its307_miniprj/-/blob/main/Images/PAGE1.png'>
+<img src='https://github.com/Rushme-G/Mini-Project/blob/master/Images/PAGE1.png'>
 
-<img src='https://gitlab.com/rushmeuzumaki/its307_miniprj/-/blob/main/Images/PAGE2.png'>
+<img src='https://github.com/Rushme-G/Mini-Project/blob/master/Images/PAGE2.png'>
 
-<img src='https://gitlab.com/rushmeuzumaki/its307_miniprj/-/blob/main/Images/PAGE3.png'>
+<img src='https://github.com/Rushme-G/Mini-Project/blob/master/Images/PAGE3.png'>
 
