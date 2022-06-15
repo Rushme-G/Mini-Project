@@ -20,9 +20,14 @@ The date contains the attributes such as open, high, low, close, adjusted close 
 
 **Screenshots of Application**
 
+### 1. Home Page
+
 <img src='https://github.com/Rushme-G/Mini-Project/blob/master/Images/PAGE1.png'>
 
-<img src='https://github.com/Rushme-G/Mini-Project/blob/master/Images/PAGE2.png'>
+### 2. Our Team
 
 <img src='https://github.com/Rushme-G/Mini-Project/blob/master/Images/PAGE3.png'>
+
+### 3. Amazon Stock Price Prediciton Page
+<img src='https://github.com/Rushme-G/Mini-Project/blob/master/Images/PAGE2.png'>
 
